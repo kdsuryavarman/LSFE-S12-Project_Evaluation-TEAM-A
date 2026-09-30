@@ -1,9 +1,9 @@
 # LSFE Project Evaluation
 
 
-**Topic:** Jargon-to-Plain-English Clinic
-**Work Evaluated:** Passage 2
-**Team:** Team A
+**Topic:** Jargon-to-Plain-English Clinic  
+**Work Evaluated:** Passage 2  
+**Team:** Team A  
 
 ---
 
